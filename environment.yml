@@ -1,0 +1,18 @@
+name: possum-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=2.7
+  - pandas
+  - numpy
+  - scipy
+  - perl
+  - perl-getopt-long
+  - perl-file-path
+  - perl-bioperl
+  - perl-bundle-bioperl
+  - perl-app-cpanminus
+  - perl-bio-featureio
+prefix: /Users/dzb5732/opt/anaconda3/envs/possum-env
